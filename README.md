@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **hrishikesh98/hrishikesh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hey guys! I'm Hrishikesh.
+I'm currently learning concepts from parallel and distributed programming and trying to learn more about Blockchain technology. 
+
+Looking forward to learn more new things! :)
