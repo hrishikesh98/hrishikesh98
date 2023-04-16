@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey guys! I'm Hrishikesh.
-I'm currently learning concepts from parallel and distributed programming and trying to learn more about Blockchain technology. 
+I'm currently working as a full stack developer @ Principal Global Services. I'm experienced in working on Advanced Java and Spring Boot Application along with React.Js and Next.Js as frontend framweorks.
 
-Looking forward to learn more new things! :)
+Currently in the process of learning AWS and creating cloud-native applications using AWS services.
+
+Always trying to learn something new :)
+Onwards and upwards!
